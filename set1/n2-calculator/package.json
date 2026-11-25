@@ -1,0 +1,12 @@
+{
+  "name": "n2-calculator",
+  "version": "1.0.0",
+  "description": "N2 Calculator Activity",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Henesty De Guzman",
+  "license": "ISC"
+}
