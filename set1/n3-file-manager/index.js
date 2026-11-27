@@ -1,6 +1,6 @@
 // Henesty G. De Guzman
 // IV BSIT - A
-// N1: Project Setup and Package Management
+// N3: File Manager with fs and path
 // Date: November 20, 2026
 
 const fs = require('fs');
