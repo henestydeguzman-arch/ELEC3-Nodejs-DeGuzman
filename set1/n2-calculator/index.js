@@ -1,6 +1,6 @@
 // Henesty G. De Guzman
 // IV BSIT - A
-// N1: Project Setup and Package Management
+// N2: Modular Calculator
 // Date: November 18, 2026
 
 const operations = require('./operations');
